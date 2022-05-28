@@ -10,7 +10,7 @@ citation: 'M. Pominova, A. Artemov, M. Sharaev, E. Kondrateva, A. Bernstein and 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://kondratevakate.github.io/files/paper1.pdf)
 
 Recommended citation: 
 
